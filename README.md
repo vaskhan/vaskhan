@@ -8,7 +8,7 @@
 
 <hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
 
-### 🧰 Технологии
+### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 <hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
 
-### 📫 Контакты
+### 📫 Contacts
 <p>
   <a href="https://t.me/Vas_Khan">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
