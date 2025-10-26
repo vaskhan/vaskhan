@@ -6,6 +6,7 @@
 
 
 
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
 
 ### 🧰 Технологии
 <p>
@@ -21,7 +22,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
 
 
 ### 📊 Статистика
@@ -30,7 +31,7 @@
 </p>
 
 
----
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
 
 ### 📫 Контакты
 <p>
@@ -42,7 +43,7 @@
   </a>
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
 
 <div align="leading">
 
