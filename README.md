@@ -40,5 +40,3 @@
     <img src="https://img.shields.io/badge/Email-F3F3F3?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-
-<hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
