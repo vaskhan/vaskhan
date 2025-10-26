@@ -3,10 +3,10 @@
 
 - Вкусив однажды SwiftUI к UIKit’у уже не тянет  
 - Пишу декларативно, но думаю императивно
+- Разрабатываю под iOS под воздействием эспрессо ☕
 
 
-
-<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
+<hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
 
 ### 🧰 Технологии
 <p>
@@ -22,14 +22,14 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
-<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
+<hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
 
 <p align="leading">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaskhan&theme=transparent" />
 </p>
 
 
-<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
+<hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
 
 ### 📫 Контакты
 <p>
@@ -41,10 +41,4 @@
   </a>
 </p>
 
-<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
-
-<div align="leading">
-
-☕ Разрабатываю под iOS под воздействием эспрессо
-
-</div>
+<hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
