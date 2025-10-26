@@ -1,7 +1,9 @@
 #  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="28"/> iOS Developer
 
+
 - Вкусив однажды SwiftUI к UIKit’у уже не тянет  
 - Пишу декларативно, но думаю императивно
+
 
 
 ---
@@ -21,10 +23,12 @@
 
 ---
 
+
 ### 📊 Статистика
 <p align="leading">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaskhan&theme=transparent" />
 </p>
+
 
 ---
 
