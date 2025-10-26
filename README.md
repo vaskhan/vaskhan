@@ -8,7 +8,7 @@
 
 <hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
 
-### 🧰 Tech Stack
+### 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
@@ -26,7 +26,6 @@
 <p align="leading">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaskhan&theme=transparent" />
 </p>
-
 <hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
 
 ### 📫 Contacts
