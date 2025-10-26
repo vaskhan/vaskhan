@@ -1,4 +1,5 @@
-#  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="32"/> iOS Developer
+# <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="28" align="center"/> iOS Developer
+
 
 
 - Вкусив однажды SwiftUI к UIKit’у уже не тянет  
