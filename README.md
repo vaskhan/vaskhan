@@ -24,8 +24,6 @@
 
 <hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
 
-
-### 📊 Статистика
 <p align="leading">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaskhan&theme=transparent" />
 </p>
