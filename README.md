@@ -1,7 +1,7 @@
 # <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="28" style="vertical-align: 12px; margin-right: 6px;"> iOS Developer
 
 
-- Вкусив однажды SwiftUI к UIKit’у уже не тянет  
+- Вкусив однажды SwiftUI, к UIKit’у уже не тянет  
 - Пишу декларативно, но думаю императивно
 - Разрабатываю под iOS под воздействием эспрессо ☕
 
